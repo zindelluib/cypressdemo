@@ -1,0 +1,1 @@
+1. Run npm install after you cloned this repo
